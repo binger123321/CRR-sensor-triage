@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+resources/*.pkl
+resources/faults.npz
+resources/feats94_masks.npz
+outputs/**/*.jsonl
+outputs/**/*.npy
